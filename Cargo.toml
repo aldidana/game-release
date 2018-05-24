@@ -1,0 +1,9 @@
+[package]
+name = "game-release"
+version = "0.1.0"
+authors = ["aldidana <aldidana@gmail.com>"]
+
+[dependencies]
+select = "0.4.2"
+reqwest = "0.8.5"
+prettytable-rs = "^0.6"
